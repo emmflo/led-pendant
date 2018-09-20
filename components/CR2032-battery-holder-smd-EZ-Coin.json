@@ -1,0 +1,101 @@
+{
+  "info":
+  {
+    "description": "HOLDER BATT COIN CR2032/20MM",
+    "manufacturer": "Harwin Inc.",
+    "part-number": "S8211-46R",
+    "suppliers": {
+      "digikey": "952-1735-1-ND"
+    },
+    "notes": ""
+  },
+  "pins":
+  {
+    "POS-1":
+    {
+      "layout":
+      {
+        "pad": "pad-sm",
+        "location": [12.8, 0],
+        "rotate": 0
+      }
+    },
+    "NEG":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [0, 0]
+      }
+    },
+    "POS-2":
+    {
+      "layout":
+      {
+        "pad": "pad-sm",
+        "location": [-12.8, 0],
+        "rotate": 0
+      }
+    }
+  },
+  "layout":
+  {
+    "silkscreen":
+    {
+    },
+    "assembly":
+    {
+      "shapes":
+      [
+        {
+          "type": "circle",
+          "layers": ["top"],
+          "diameter": 20
+        },
+        {
+          "type": "path",
+          "value": "M -10.55,-7.9 L -7.55,-10.9 7.55,-10.9 10.55,-7.9 10.55,9.1 -10.55,9.1 Z"
+        }
+      ]
+    }
+  },
+  "pads":
+  {
+    "pad":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "outline": 0,
+          "width": 5.5,
+          "height": 5.5,
+          "radii": {
+            "bl": 0.05,
+            "br": 0.05,
+            "tl": 0.05,
+            "tr": 0.05
+          }
+        }
+      ]
+    },
+    "pad-sm":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "outline": 0,
+          "width": 4,
+          "height": 4,
+          "radii": {
+            "bl": 0.05,
+            "br": 0.05,
+            "tl": 0.05,
+            "tr": 0.05
+          }
+        }
+      ]
+    }
+  }
+}

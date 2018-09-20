@@ -1,5 +1,23 @@
 {
   "components": {
+    "B1": {
+      "footprint": "CR2032-battery-holder-smd-EZ-Coin",
+      "layer": "top",
+      "location": [0, 0],
+      "rotate": 0,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "location": [0, 0],
+          "rotate": 0,
+          "rotate-with-component": true,
+          "show": true
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
     "D1": {
       "footprint": "RGB-reverse-smt-led-XZMDKCBDDG45S-9",
       "layer": "bottom",
