@@ -1,0 +1,374 @@
+{
+  "components": {
+    "D1": {
+      "footprint": "RGB-reverse-smt-led-XZMDKCBDDG45S-9",
+      "layer": "bottom",
+      "location": [
+        13.25,
+        18
+      ],
+      "rotate": -45,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0,
+            0
+          ],
+          "rotate": 0,
+          "rotate-with-component": true,
+          "show": true
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "D2": {
+      "footprint": "RGB-reverse-smt-led-XZMDKCBDDG45S-9",
+      "layer": "bottom",
+      "location": [
+        -13.25,
+        18
+      ],
+      "rotate": 45,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0,
+            0
+          ],
+          "rotate": 0,
+          "rotate-with-component": true,
+          "show": true
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "D3": {
+      "footprint": "RGB-reverse-smt-led-XZMDKCBDDG45S-9",
+      "layer": "bottom",
+      "location": [
+        0,
+        19
+      ],
+      "rotate": 0,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0,
+            0
+          ],
+          "rotate": 0,
+          "rotate-with-component": true,
+          "show": true
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "D4": {
+      "footprint": "RGB-reverse-smt-led-XZMDKCBDDG45S-9",
+      "layer": "bottom",
+      "location": [
+        0,
+        -31.5
+      ],
+      "rotate": 0,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0,
+            0
+          ],
+          "rotate": 0,
+          "rotate-with-component": true,
+          "show": true
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "D5": {
+      "footprint": "RGB-reverse-smt-led-XZMDKCBDDG45S-9",
+      "layer": "bottom",
+      "location": [
+        13.25,
+        -30.5
+      ],
+      "rotate": 45,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0,
+            0
+          ],
+          "rotate": 0,
+          "rotate-with-component": true,
+          "show": true
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "D6": {
+      "footprint": "RGB-reverse-smt-led-XZMDKCBDDG45S-9",
+      "layer": "bottom",
+      "location": [
+        -13.25,
+        -30.5
+      ],
+      "rotate": -45,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0,
+            0
+          ],
+          "rotate": 0,
+          "rotate-with-component": true,
+          "show": true
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "D7": {
+      "footprint": "RGB-reverse-smt-led-XZMDKCBDDG45S-9",
+      "layer": "bottom",
+      "location": [
+        -25.25,
+        -6.25
+      ],
+      "rotate": 90,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0,
+            0
+          ],
+          "rotate": 0,
+          "rotate-with-component": false,
+          "show": true
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "D8": {
+      "footprint": "RGB-reverse-smt-led-XZMDKCBDDG45S-9",
+      "layer": "bottom",
+      "location": [
+        25.25,
+        -6.25
+      ],
+      "rotate": 90,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0,
+            0
+          ],
+          "rotate": 0,
+          "rotate-with-component": false,
+          "show": true
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    }
+  },
+  "config": {
+    "name": "led-pendant",
+    "no-docs": true,
+    "no-drill-index": true,
+    "no-flashes": true,
+    "no-layer-index": true,
+    "rev": "A",
+    "style-layout": "default",
+    "units": "mm"
+  },
+  "distances": {
+    "from-pour-to": {
+      "drill": 0.4,
+      "outline": 0.25,
+      "pad": 0.3,
+      "route": 0.25
+    },
+    "soldermask": {
+      "circle-buffer": 0.05,
+      "path-scale": 1.05,
+      "rect-buffer": 0.05
+    },
+    "solderpaste": {
+      "circle-buffer": -0.1,
+      "path-scale": 0.9,
+      "rect-buffer": -0.1
+    }
+  },
+  "documentation": {
+    "board-details": {
+      "font-family": "Overlock-Regular-OTF-webfont",
+      "font-size": "1.5mm",
+      "letter-spacing": "0mm",
+      "line-height": "1.5mm",
+      "location": [
+        0,
+        0
+      ],
+      "rotate": 0,
+      "style": "fill",
+      "type": "text",
+      "value": "Board details\n"
+    },
+    "manufacturing": {
+      "font-family": "Overlock-Regular-OTF-webfont",
+      "font-size": "1.5mm",
+      "letter-spacing": "0mm",
+      "line-height": "1.5mm",
+      "location": [
+        0,
+        0
+      ],
+      "rotate": 0,
+      "style": "fill",
+      "type": "text",
+      "value": "Manufacturing\n"
+    },
+    "pcbmode": {
+      "font-family": "Overlock-Regular-OTF-webfont",
+      "font-size": "1.5mm",
+      "letter-spacing": "0mm",
+      "line-height": "1.5mm",
+      "location": [
+        0,
+        0
+      ],
+      "rotate": 0,
+      "style": "fill",
+      "type": "text",
+      "value": "Designed with PCBmodE, an open source software\n     http://bitbucket.org/boldport/pcbmode\nStay updated:\n     @boldport @pcbmode http://boldport.comn"
+    }
+  },
+  "drill-index": {
+    "location": [
+      0,
+      0
+    ]
+  },
+  "files": {
+    "routing-data": "led-pendant_routing.json",
+    "routing-svg": "led-pendant.svg"
+  },
+  "gerber": {
+    "decimals": 6,
+    "digits": 6,
+    "min-segment-length": 0.05,
+    "steps-per-segment": 100,
+    "steps-per-segments": 100
+  },
+  "layer-control": {
+    "assembly": {
+      "hide": false,
+      "lock": false,
+      "place": true
+    },
+    "conductor": {
+      "hide": false,
+      "lock": false,
+      "pads": {
+        "hide": false,
+        "lock": false,
+        "place": true
+      },
+      "place": true,
+      "pours": {
+        "hide": false,
+        "lock": true,
+        "place": true
+      },
+      "routing": {
+        "hide": false,
+        "lock": false,
+        "place": true
+      }
+    },
+    "dimensions": {
+      "hide": false,
+      "lock": true,
+      "place": true
+    },
+    "documentation": {
+      "hide": false,
+      "lock": false,
+      "place": true
+    },
+    "drills": {
+      "hide": false,
+      "lock": false,
+      "place": true
+    },
+    "origin": {
+      "hide": false,
+      "lock": true,
+      "place": true
+    },
+    "outline": {
+      "hide": false,
+      "lock": true,
+      "place": true
+    },
+    "placement": {
+      "hide": false,
+      "lock": false,
+      "place": true
+    },
+    "silkscreen": {
+      "hide": false,
+      "lock": false,
+      "place": true
+    },
+    "soldermask": {
+      "hide": false,
+      "lock": false,
+      "place": true
+    },
+    "solderpaste": {
+      "hide": true,
+      "lock": true,
+      "place": true
+    }
+  },
+  "outline": {
+    "measurements": {
+      "font-family": "UbuntuMono-R-webfont",
+      "scale": 0.0008
+    },
+    "shape": {
+      "type": "path",
+      "value": "M -30,0  L -10,20 -10,22.5 -12.5,20 -17.5,25 -5,37.5  5,37.5 17.5,25 12.5,20 10,22.5 10,20 30,0 10,-20 10,-22.5 12.5,-20 17.5,-25 2.5,-40 5,-42.5  0,-47.5  -5,-42.5 -2.5,-40 -17.5,-25 -12.5,-20 -10,-22.5 -10,-20 Z M -5,25 0,30 5,25 5,27.5 0,32.5 -5,27.5 Z M -5,-25 0,-30 5,-25 5,-27.5 0,-32.5 -5,-27.5 Z"
+    }
+  },
+  "shapes": {},
+  "stackup": {
+    "name": "two-layer"
+  },
+  "vias": {
+    "default-via": "VIA"
+  }
+}

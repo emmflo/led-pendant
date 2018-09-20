@@ -1,0 +1,88 @@
+{
+  "info": {
+    "description": "LED RGB CLEAR 4PLCC SMD",
+    "manufacturer": "SunLED",
+    "part-number": "XZMDKCBDDG45S-9",
+    "suppliers": {
+      "digikey": "1497-1257-1-ND"
+    },
+    "notes": ""
+  },
+  "pins":
+  {
+    "1":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [2.6, 0.725],
+        "show-label": true
+      }
+    },
+    "2":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [-2.6, 0.725],
+        "show-label": true
+      }
+    },
+    "3":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [-2.6, -0.725],
+        "show-label": true
+      }
+    },
+    "4":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [2.6, -0.725],
+        "show-label": true
+      }
+    }
+  },
+  "layout":
+  {
+    "silkscreen":
+    {
+      "shapes":
+      [
+        {
+          "type": "path",
+          "value": "M -1.6,-1.4 L 1.4,-1.4 1.6,-1.2 1.6,1.4 -1.6,1.4 Z"
+        }
+      ]
+    },
+    "assembly":
+    {
+
+    }
+  },
+  "pads":
+  {
+    "pad":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "outline": 0,
+          "width": 1.4,
+          "height": 0.8,
+          "radii": {
+            "bl": 0.05,
+            "br": 0.05,
+            "tl": 0.05,
+            "tr": 0.05
+          }
+        }
+      ]
+    }
+  }
+}
