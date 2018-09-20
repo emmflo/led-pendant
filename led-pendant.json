@@ -1,5 +1,23 @@
 {
   "components": {
+    "U1": {
+      "footprint": "QSOP24",
+      "layer": "top",
+      "location": [0, -20],
+      "rotate": 0,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "location": [0, 0],
+          "rotate": 0,
+          "rotate-with-component": true,
+          "show": true
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
     "B1": {
       "footprint": "CR2032-battery-holder-smd-EZ-Coin",
       "layer": "top",

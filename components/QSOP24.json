@@ -1,0 +1,278 @@
+{
+  "info":
+  {
+    "description": "IC MCU 8BIT 8KB FLASH 24QSOP",
+    "manufacturer": "Silicon Labs",
+    "part-number": "EFM8SB10F8G-A-QSOP24",
+    "suppliers": {
+      "digikey": "336-3174-5-ND"
+    },
+    "notes": ""
+  },
+  "pins":
+  {
+    "12":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [-2.625,-3.4925],
+        "show-label": true
+      }
+    },
+    "11":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [-2.625,-2.8575],
+        "show-label": true
+      }
+    },
+    "10":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [-2.625,-2.2225],
+        "show-label": true
+      }
+    },
+    "9":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [-2.625,-1.5875],
+        "show-label": true
+      }
+    },
+    "8":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [-2.625,-0.9525],
+        "show-label": true
+      }
+    },
+    "7":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [-2.625,-0.3175],
+        "show-label": true
+      }
+    },
+    "6":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [-2.625,0.3175],
+        "show-label": true
+      }
+    },
+    "5":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [-2.625,0.9525],
+        "show-label": true
+      }
+    },
+    "4":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [-2.625,1.5875],
+        "show-label": true
+      }
+    },
+    "3":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [-2.625,2.2225],
+        "show-label": true
+      }
+    },
+    "2":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [-2.625,2.8575],
+        "show-label": true
+      }
+    },
+    "1":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [-2.625,3.4925],
+        "show-label": true
+      }
+    },
+    "24":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [2.625,3.4925],
+        "show-label": true
+      }
+    },
+    "23":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [2.625,2.8575],
+        "show-label": true
+      }
+    },
+    "22":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [2.625,2.2225],
+        "show-label": true
+      }
+    },
+    "21":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [2.625,1.5875],
+        "show-label": true
+      }
+    },
+    "20":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [2.625,0.9525],
+        "show-label": true
+      }
+    },
+    "19":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [2.625,0.3175],
+        "show-label": true
+      }
+    },
+    "18":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [2.625,-0.3175],
+        "show-label": true
+      }
+    },
+    "17":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [2.625,-0.9525],
+        "show-label": true
+      }
+    },
+    "16":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [2.625,-1.5875],
+        "show-label": true
+      }
+    },
+    "15":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [2.625,-2.2225],
+        "show-label": true
+      }
+    },
+    "14":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [2.625,-2.8575],
+        "show-label": true
+      }
+    },
+    "13":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [2.625,-3.4925],
+        "show-label": true
+      }
+    }
+  },
+  "layout":
+  {
+    "silkscreen":
+    {
+      "shapes":
+      [
+        {
+          "type": "circle",
+          "style": "fill",
+          "diameter": 0.5,
+          "location": [-2.625,4.5]
+        }
+      ]
+    },
+    "assembly":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "height": 8.65,
+          "width": 3.90
+        }
+      ]
+    }
+  },
+  "pads":
+  {
+    "pad":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "outline": 0,
+          "width": 1.55,
+          "height": 0.35,
+          "radii": {
+            "bl": 0.05,
+            "br": 0.05,
+            "tl": 0.05,
+            "tr": 0.05
+          }
+        }
+      ]
+    }
+  }
+}
