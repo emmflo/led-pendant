@@ -1,0 +1,474 @@
+{
+  "info":
+  {
+    "description": "IC LED DRVR LIN DIM 100MA 48LQFP",
+    "manufacturer": "NXP USA Inc.",
+    "part-number": "PCA9626B,118",
+    "suppliers": {
+      "digikey": "568-4774-1-ND"
+    },
+    "notes": ""
+  },
+  "pins":
+  {
+    "1":
+    {
+      "layout":
+      {
+        "pad": "D2",
+        "location": [-5.175, 2.810],
+        "rotate": -90
+      }
+    },
+    "2":
+    {
+      "layout":
+      {
+        "pad": "D1",
+        "location": [-5.175, 2.250],
+        "rotate": -90
+      }
+    },
+    "3":
+    {
+      "layout":
+      {
+        "pad": "D1",
+        "location": [-5.175, 1.75],
+        "rotate": -90
+      }
+    },
+    "4":
+    {
+      "layout":
+      {
+        "pad": "D1",
+        "location": [-5.175, 1.25],
+        "rotate": -90
+      }
+    },
+    "5":
+    {
+      "layout":
+      {
+        "pad": "D1",
+        "location": [-5.175, 0.75],
+        "rotate": -90
+      }
+    },
+    "6":
+    {
+      "layout":
+      {
+        "pad": "D1",
+        "location": [-5.175, 0.25],
+        "rotate": -90
+      }
+    },
+    "7":
+    {
+      "layout":
+      {
+        "pad": "D1",
+        "location": [-5.175, -0.25],
+        "rotate": -90
+      }
+    },
+    "8":
+    {
+      "layout":
+      {
+        "pad": "D1",
+        "location": [-5.175, -0.75],
+        "rotate": -90
+      }
+    },
+    "9":
+    {
+      "layout":
+      {
+        "pad": "D1",
+        "location": [-5.175, -1.25],
+        "rotate": -90
+      }
+    },
+    "10":
+    {
+      "layout":
+      {
+        "pad": "D1",
+        "location": [-5.175, -1.75],
+        "rotate": -90
+      }
+    },
+    "11":
+    {
+      "layout":
+      {
+        "pad": "D1",
+        "location": [-5.175, -2.25],
+        "rotate": -90
+      }
+    },
+    "12":
+    {
+      "layout":
+      {
+        "pad": "D2",
+        "location": [-5.175, -2.810],
+        "rotate": -90
+      }
+    },
+    "13":
+    {
+      "layout":
+      {
+        "pad": "D2",
+        "location": [-2.810, -5.175],
+        "rotate": -180
+      }
+    },
+    "14":
+    {
+      "layout":
+      {
+        "pad": "D1",
+        "location": [-2.250, -5.175],
+        "rotate": -180
+      }
+    },
+    "15":
+    {
+      "layout":
+      {
+        "pad": "D1",
+        "location": [-1.75, -5.175],
+        "rotate": -180
+      }
+    },
+    "16":
+    {
+      "layout":
+      {
+        "pad": "D1",
+        "location": [-1.25, -5.175],
+        "rotate": -180
+      }
+    },
+    "17":
+    {
+      "layout":
+      {
+        "pad": "D1",
+        "location": [-0.75, -5.175],
+        "rotate": -180
+      }
+    },
+    "18":
+    {
+      "layout":
+      {
+        "pad": "D1",
+        "location": [-0.25, -5.175],
+        "rotate": -180
+      }
+    },
+    "19":
+    {
+      "layout":
+      {
+        "pad": "D1",
+        "location": [0.25, -5.175],
+        "rotate": -180
+      }
+    },
+    "20":
+    {
+      "layout":
+      {
+        "pad": "D1",
+        "location": [0.75, -5.175],
+        "rotate": -180
+      }
+    },
+    "21":
+    {
+      "layout":
+      {
+        "pad": "D1",
+        "location": [1.25, -5.175],
+        "rotate": -180
+      }
+    },
+    "22":
+    {
+      "layout":
+      {
+        "pad": "D1",
+        "location": [1.75, -5.175],
+        "rotate": -180
+      }
+    },
+    "23":
+    {
+      "layout":
+      {
+        "pad": "D1",
+        "location": [2.25, -5.175],
+        "rotate": -180
+      }
+    },
+    "24":
+    {
+      "layout":
+      {
+        "pad": "D2",
+        "location": [2.810, -5.175],
+        "rotate": -180
+      }
+    },
+    "36":
+    {
+      "layout":
+      {
+        "pad": "D2",
+        "location": [5.175, 2.810],
+        "rotate": 90
+      }
+    },
+    "35":
+    {
+      "layout":
+      {
+        "pad": "D1",
+        "location": [5.175, 2.250],
+        "rotate": 90
+      }
+    },
+    "34":
+    {
+      "layout":
+      {
+        "pad": "D1",
+        "location": [5.175, 1.75],
+        "rotate": 90
+      }
+    },
+    "33":
+    {
+      "layout":
+      {
+        "pad": "D1",
+        "location": [5.175, 1.25],
+        "rotate": 90
+      }
+    },
+    "32":
+    {
+      "layout":
+      {
+        "pad": "D1",
+        "location": [5.175, 0.75],
+        "rotate": 90
+      }
+    },
+    "31":
+    {
+      "layout":
+      {
+        "pad": "D1",
+        "location": [5.175, 0.25],
+        "rotate": 90
+      }
+    },
+    "30":
+    {
+      "layout":
+      {
+        "pad": "D1",
+        "location": [5.175, -0.25],
+        "rotate": 90
+      }
+    },
+    "29":
+    {
+      "layout":
+      {
+        "pad": "D1",
+        "location": [5.175, -0.75],
+        "rotate": 90
+      }
+    },
+    "28":
+    {
+      "layout":
+      {
+        "pad": "D1",
+        "location": [5.175, -1.25],
+        "rotate": 90
+      }
+    },
+    "27":
+    {
+      "layout":
+      {
+        "pad": "D1",
+        "location": [5.175, -1.75],
+        "rotate": 90
+      }
+    },
+    "26":
+    {
+      "layout":
+      {
+        "pad": "D1",
+        "location": [5.175, -2.25],
+        "rotate": 90
+      }
+    },
+    "25":
+    {
+      "layout":
+      {
+        "pad": "D2",
+        "location": [5.175, -2.810],
+        "rotate": 90
+      }
+    },
+    "48":
+    {
+      "layout":
+      {
+        "pad": "D2",
+        "location": [-2.810, 5.175],
+        "rotate": 0
+      }
+    },
+    "47":
+    {
+      "layout":
+      {
+        "pad": "D1",
+        "location": [-2.250, 5.175],
+        "rotate": 0
+      }
+    },
+    "46":
+    {
+      "layout":
+      {
+        "pad": "D1",
+        "location": [-1.75, 5.175],
+        "rotate": 0
+      }
+    },
+    "45":
+    {
+      "layout":
+      {
+        "pad": "D1",
+        "location": [-1.25, 5.175],
+        "rotate": 0
+      }
+    },
+    "44":
+    {
+      "layout":
+      {
+        "pad": "D1",
+        "location": [-0.75, 5.175],
+        "rotate": 0
+      }
+    },
+    "43":
+    {
+      "layout":
+      {
+        "pad": "D1",
+        "location": [-0.25, 5.175],
+        "rotate": 0
+      }
+    },
+    "42":
+    {
+      "layout":
+      {
+        "pad": "D1",
+        "location": [0.25, 5.175],
+        "rotate": 0
+      }
+    },
+    "41":
+    {
+      "layout":
+      {
+        "pad": "D1",
+        "location": [0.75, 5.175],
+        "rotate": 0
+      }
+    },
+    "40":
+    {
+      "layout":
+      {
+        "pad": "D1",
+        "location": [1.25, 5.175],
+        "rotate": 0
+      }
+    },
+    "39":
+    {
+      "layout":
+      {
+        "pad": "D1",
+        "location": [1.75, 5.175],
+        "rotate": 0
+      }
+    },
+    "38":
+    {
+      "layout":
+      {
+        "pad": "D1",
+        "location": [2.25, 5.175],
+        "rotate": 0
+      }
+    },
+    "37":
+    {
+      "layout":
+      {
+        "pad": "D2",
+        "location": [2.810, 5.175],
+        "rotate": 0
+      }
+    }
+  },
+  "pads":
+  {
+    "D1":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "outline": 0,
+          "width": 0.280,
+          "height": 1.500
+        }
+      ]
+    },
+    "D2":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "outline": 0,
+          "width": 0.500,
+          "height": 1.500
+        }
+      ]
+    }
+  }
+}
