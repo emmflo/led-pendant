@@ -1,0 +1,85 @@
+{
+  "info":
+  {
+    "description": "SMD PH.MODULE 38KHZ T.VIEW4",
+    "manufacturer": "Vishay Semiconductor Opto Division",
+    "part-number": "TSOP75238TT",
+    "suppliers": {
+      "digikey": "TSOP75238TTCT-ND"
+    },
+    "notes": ""
+  },
+  "pins":
+  {
+    "1":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [-1.905, 0],
+        "rotate": 0
+      }
+    },
+    "2":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [-0.635, 0],
+        "rotate": 0
+      }
+    },
+    "3":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [0.635, 0],
+        "rotate": 0
+      }
+    },
+    "4":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [1.905, 0],
+        "rotate": 0
+      }
+    }
+  },
+  "layout":
+  {
+    "silkscreen":
+    {
+    },
+    "assembly":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "outline": 0,
+          "width": 6.8,
+          "height": 3,
+          "location": [0, 1.5]
+        }
+      ]
+    }
+  },
+  "pads":
+  {
+    "pad":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "outline": 0,
+          "width": 0.8,
+          "height": 1.8
+        }
+      ]
+    }
+  }
+}
