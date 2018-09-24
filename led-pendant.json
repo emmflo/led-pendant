@@ -48,6 +48,30 @@
         }
       }
     },
+    "D10": {
+      "footprint": "QBLP670-IR1",
+      "layer": "top",
+      "location": [
+        0, 
+        -40
+      ],
+      "rotate": 0,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0,
+            0
+          ],
+          "rotate": 0,
+          "rotate-with-component": true,
+          "show": true
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
     "D2": {
       "footprint": "RGB-reverse-smt-led-XZMDKCBDDG45S-9",
       "layer": "bottom",

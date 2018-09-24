@@ -1,0 +1,57 @@
+{
+  "info":
+  {
+    "description": "LED IR 3528 940NM WLP PLCC2",
+    "manufacturer": "QT Brightek (QTB)",
+    "part-number": "QBLP670-IR1",
+    "suppliers": {
+      "digikey": "1516-1275-1-ND"
+    },
+    "notes": ""
+  },
+  "pins":
+  {
+    "A":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [-2.225,0],
+        "rotate": 0
+      }
+    },
+    "C":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [2.225,0],
+        "rotate": 0
+      }
+    }
+  },
+  "layout":
+  {
+    "silkscreen":
+    {
+    },
+    "assembly":
+    {
+    }
+  },
+  "pads":
+  {
+    "pad":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "outline": 0,
+          "width": 1.6,
+          "height": 2.4
+        }
+      ]
+    }
+  }
+}
