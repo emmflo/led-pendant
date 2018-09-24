@@ -52,7 +52,7 @@
       "footprint": "QBLP670-IR1",
       "layer": "top",
       "location": [
-        0, 
+        0,
         -40
       ],
       "rotate": 0,
@@ -248,6 +248,30 @@
         29.5
       ],
       "rotate": 0,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0,
+            0
+          ],
+          "rotate": 0,
+          "rotate-with-component": true,
+          "show": true
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "H1": {
+      "footprint": "header-3pos-smd-right-angle",
+      "layer": "bottom",
+      "location": [
+        8.5,
+        -0.5
+      ],
+      "rotate": 45,
       "show": true,
       "silkscreen": {
         "refdef": {

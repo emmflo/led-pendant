@@ -1,0 +1,77 @@
+{
+  "info":
+  {
+    "description": "CONN HDR SNGL 2.54MM R/A 3POS",
+    "manufacturer": "Harwin Inc.",
+    "part-number": "M20-8890345",
+    "suppliers": {
+      "digikey": "952-3232-ND"
+    },
+    "notes": ""
+  },
+  "pins":
+  {
+    "1":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [-2.54, 0],
+        "rotate": 0
+      }
+    },
+    "2":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [0, 0],
+        "rotate": 0
+      }
+    },
+    "3":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [2.54, 0],
+        "rotate": 0
+      }
+    }
+  },
+  "layout":
+  {
+    "silkscreen":
+    {
+
+    },
+    "assembly":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "outline": 0,
+          "width": 7.62,
+          "height": 11.5,
+          "location": [0, 5.75]
+        }
+      ]
+    }
+  },
+  "pads":
+  {
+    "pad":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "outline": 0,
+          "width": 1.02,
+          "height": 3.17
+        }
+      ]
+    }
+  }
+}

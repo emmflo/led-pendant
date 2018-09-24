@@ -1,0 +1,131 @@
+{
+  "info":
+  {
+    "description": "CONN HEADER 10POS .100\" VERT TIN",
+    "manufacturer": "Molex. LCC",
+    "part-number": "0015912100",
+    "suppliers": {
+      "digikey": "WM17451-ND"
+    },
+    "notes": ""
+  },
+  "pins":
+  {
+    "1":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [-5.08, 2.22],
+        "rotate": 0
+      }
+    },
+    "2":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [-2.54, 2.22],
+        "rotate": 0
+      }
+    },
+    "3":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [0, 2.22],
+        "rotate": 0
+      }
+    },
+    "4":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [2.54, 2.22],
+        "rotate": 0
+      }
+    },
+    "5":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [5.08, 2.22],
+        "rotate": 0
+      }
+    },
+    "10":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [-5.08, -2.22],
+        "rotate": 180
+      }
+    },
+    "9":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [-2.54, -2.22],
+        "rotate": 180
+      }
+    },
+    "8":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [0, -2.22],
+        "rotate": 180
+      }
+    },
+    "7":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [2.54, -2.22],
+        "rotate": 180
+      }
+    },
+    "6":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [5.08, -2.22],
+        "rotate": 180
+      }
+    }
+  },
+  "layout":
+  {
+    "silkscreen":
+    {
+
+    },
+    "assembly":
+    {
+
+    }
+  },
+  "pads":
+  {
+    "pad":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "outline": 0,
+          "width": 1.27,
+          "height": 3.68
+        }
+      ]
+    }
+  }
+}
