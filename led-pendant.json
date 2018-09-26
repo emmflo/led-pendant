@@ -811,6 +811,30 @@
         }
       }
     }, 
+    "R27": {
+      "footprint": "0402", 
+      "layer": "bottom", 
+      "location": [
+        -11.269923, 
+        -21.449096
+      ], 
+      "rotate": 45, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 0, 
+          "rotate-with-component": true, 
+          "show": true
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
     "R3": {
       "footprint": "0402", 
       "layer": "bottom", 
