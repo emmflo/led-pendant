@@ -24,6 +24,54 @@
         }
       }
     }, 
+    "C1": {
+      "footprint": "0402", 
+      "layer": "bottom", 
+      "location": [
+        10.100197, 
+        -1.815716
+      ], 
+      "rotate": 105.75, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 0, 
+          "rotate-with-component": true, 
+          "show": true
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
+    "C2": {
+      "footprint": "0402", 
+      "layer": "bottom", 
+      "location": [
+        11.557427, 
+        -2.259753
+      ], 
+      "rotate": 105.75, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 0, 
+          "rotate-with-component": true, 
+          "show": true
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
     "CHAIN": {
       "footprint": "chain-hole", 
       "layer": "top", 
@@ -647,10 +695,10 @@
       "footprint": "0402", 
       "layer": "bottom", 
       "location": [
-        -8.948437, 
-        -10.520703
+        -8.832681, 
+        -12.207421
       ], 
-      "rotate": 0, 
+      "rotate": 45, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -671,10 +719,10 @@
       "footprint": "0402", 
       "layer": "bottom", 
       "location": [
-        -8.948437, 
-        -9.520703
+        -8.28778, 
+        -10.105355
       ], 
-      "rotate": 0, 
+      "rotate": 45, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -695,10 +743,10 @@
       "footprint": "0402", 
       "layer": "bottom", 
       "location": [
-        -8.948437, 
-        -8.520703
+        6.484623, 
+        13.305785
       ], 
-      "rotate": 0, 
+      "rotate": 105.75, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -887,10 +935,10 @@
       "footprint": "QSOP24", 
       "layer": "bottom", 
       "location": [
-        15.5, 
-        -2.75
+        16.106866, 
+        -2.924164
       ], 
-      "rotate": 15.75, 
+      "rotate": -164.25, 
       "show": true, 
       "silkscreen": {
         "refdef": {
