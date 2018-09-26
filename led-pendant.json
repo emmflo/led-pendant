@@ -695,8 +695,8 @@
       "footprint": "0402", 
       "layer": "bottom", 
       "location": [
-        -8.832681, 
-        -12.207421
+        -9.710594, 
+        -12.680143
       ], 
       "rotate": 45, 
       "show": true, 
@@ -719,8 +719,8 @@
       "footprint": "0402", 
       "layer": "bottom", 
       "location": [
-        -8.28778, 
-        -10.105355
+        -8.546652, 
+        -11.501012
       ], 
       "rotate": 45, 
       "show": true, 
@@ -745,6 +745,54 @@
       "location": [
         6.484623, 
         13.305785
+      ], 
+      "rotate": 105.75, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 0, 
+          "rotate-with-component": true, 
+          "show": true
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
+    "R25": {
+      "footprint": "0402", 
+      "layer": "bottom", 
+      "location": [
+        -6.394333, 
+        -8.735434
+      ], 
+      "rotate": 105.75, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 0, 
+          "rotate-with-component": true, 
+          "show": true
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
+    "R26": {
+      "footprint": "0402", 
+      "layer": "bottom", 
+      "location": [
+        -7.98133, 
+        -8.243644
       ], 
       "rotate": 105.75, 
       "show": true, 
@@ -930,6 +978,15 @@
           "show": true
         }
       }
+    }, 
+    "TOUCH": {
+      "footprint": "touch", 
+      "layer": "top", 
+      "location": [
+        0, 
+        -5
+      ], 
+      "rotate": 0
     }, 
     "U1": {
       "footprint": "QSOP24", 

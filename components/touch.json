@@ -1,0 +1,62 @@
+{
+  "pins":
+  {
+    "1":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [0, 0]
+      }
+    }
+  },
+  "layout":
+  {
+    "conductor":
+    {
+      "shapes":
+      [
+        {
+          "type": "circle",
+          "gerber-lp": "ccccccccccccccccccccc",
+          "layers": ["bottom"],
+          "style": "fill",
+          "diameter": 5
+        }
+      ]
+    },
+    "silkscreen":
+    {
+      "shapes":
+      [
+        {
+          "type": "path",
+          "layers": ["top"],
+          "style": "fill",
+          "value": "m -2.50,5.00 c -1.00,-1.00 -2.50,-5.00 2.50,-10.00 C -2.50,0.00 1.50,4.00 2.50,5.00 3.50,6.00 5.00,10.00 0.00,15.00 2.50,10.00 -1.50,6.00 -2.50,5.00 Z"
+        }
+      ]
+    },
+    "assembly":
+    {
+      "shapes":
+      [
+      ]
+    }
+  },
+  "pads":
+  {
+    "pad":
+    {
+      "shapes":
+      [
+        {
+          "type": "path",
+          "layers": ["top"],
+          "style": "fill",
+          "value": "m -2.50,5.00 c -1.00,-1.00 -2.50,-5.00 2.50,-10.00 C -2.50,0.00 1.50,4.00 2.50,5.00 3.50,6.00 5.00,10.00 0.00,15.00 2.50,10.00 -1.50,6.00 -2.50,5.00 Z"
+        }
+      ]
+    }
+  }
+}
