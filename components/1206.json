@@ -1,0 +1,54 @@
+{
+  "pins":
+  {
+    "1":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [-1.8, 0]
+      }
+    },
+    "2":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [1.8, 0]
+      }
+    }
+  },
+  "layout":
+  {
+    "silkscreen":
+    {
+
+    },
+    "assembly":
+    {
+
+    }
+  },
+  "pads":
+  {
+    "pad":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "layers": ["top"],
+          "width": 1.8,
+          "height": 2,
+          "radii":
+          {
+            "tl": 0.25,
+            "tr": 0,
+            "bl": 0.25,
+            "br": 0
+          }
+        }
+      ]
+    }
+  }
+}
