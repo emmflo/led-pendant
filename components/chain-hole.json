@@ -1,0 +1,28 @@
+{
+  "pins":
+  {
+    "HOLE":
+    {
+      "layout":
+      {
+        "pad": "hole",
+        "location": [0, 0]
+      }
+    }
+  },
+  "pads":
+  {
+    "hole":
+    {
+      "shapes":
+      [
+      ],
+      "drills":
+      [
+        {
+          "diameter": 4
+        }
+      ]
+    }
+  }
+}

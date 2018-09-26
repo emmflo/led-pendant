@@ -24,6 +24,16 @@
         }
       }
     }, 
+    "CHAIN": {
+      "footprint": "chain-hole", 
+      "layer": "top", 
+      "location": [
+        0, 
+        37.5
+      ], 
+      "rotate": 0, 
+      "show": true
+    }, 
     "D1": {
       "footprint": "RGB-reverse-smt-led-XZMDKCBDDG45S-9", 
       "layer": "bottom", 
@@ -127,7 +137,7 @@
         0, 
         -29.25
       ], 
-      "rotate": 0, 
+      "rotate": 180, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -199,7 +209,7 @@
         -24.25, 
         -5
       ], 
-      "rotate": 90, 
+      "rotate": -90, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -223,7 +233,7 @@
         24.25, 
         -5
       ], 
-      "rotate": 90, 
+      "rotate": -90, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -397,8 +407,8 @@
       "footprint": "0402", 
       "layer": "bottom", 
       "location": [
-        23, 
-        35
+        0, 
+        -26.75
       ], 
       "rotate": 0, 
       "show": true, 
@@ -421,10 +431,10 @@
       "footprint": "0402", 
       "layer": "bottom", 
       "location": [
-        23, 
-        36
+        2.75, 
+        -26
       ], 
-      "rotate": 0, 
+      "rotate": 90, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -445,10 +455,10 @@
       "footprint": "0402", 
       "layer": "bottom", 
       "location": [
-        23, 
-        37
+        4.75, 
+        -26
       ], 
-      "rotate": 0, 
+      "rotate": 90, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -469,10 +479,10 @@
       "footprint": "0402", 
       "layer": "bottom", 
       "location": [
-        23, 
-        38
+        21, 
+        -11.75
       ], 
-      "rotate": 0, 
+      "rotate": -45, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -493,10 +503,10 @@
       "footprint": "0402", 
       "layer": "bottom", 
       "location": [
-        23, 
-        39
+        20, 
+        -10.75
       ], 
-      "rotate": 0, 
+      "rotate": -45, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -517,10 +527,10 @@
       "footprint": "0402", 
       "layer": "bottom", 
       "location": [
-        23, 
-        40
+        19, 
+        -9.75
       ], 
-      "rotate": 0, 
+      "rotate": -45, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -541,10 +551,10 @@
       "footprint": "0402", 
       "layer": "bottom", 
       "location": [
-        23, 
-        41
+        -21, 
+        -11.75
       ], 
-      "rotate": 0, 
+      "rotate": 45, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -589,10 +599,10 @@
       "footprint": "0402", 
       "layer": "bottom", 
       "location": [
-        23, 
-        42
+        -20, 
+        -10.75
       ], 
-      "rotate": 0, 
+      "rotate": 45, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -613,10 +623,10 @@
       "footprint": "0402", 
       "layer": "bottom", 
       "location": [
-        23, 
-        43
+        -19, 
+        -9.75
       ], 
-      "rotate": 0, 
+      "rotate": 45, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -637,8 +647,8 @@
       "footprint": "0402", 
       "layer": "bottom", 
       "location": [
-        23, 
-        44
+        -8.948437, 
+        -10.520703
       ], 
       "rotate": 0, 
       "show": true, 
@@ -661,8 +671,8 @@
       "footprint": "0402", 
       "layer": "bottom", 
       "location": [
-        23, 
-        45
+        -8.948437, 
+        -9.520703
       ], 
       "rotate": 0, 
       "show": true, 
@@ -685,8 +695,8 @@
       "footprint": "0402", 
       "layer": "bottom", 
       "location": [
-        23, 
-        46
+        -8.948437, 
+        -8.520703
       ], 
       "rotate": 0, 
       "show": true, 

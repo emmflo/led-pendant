@@ -444,6 +444,21 @@
       }
     }
   },
+  "layout":
+  {
+    "silkscreen":
+    {
+      "shapes":
+      [
+        {
+          "type": "circle",
+          "style": "fill",
+          "diameter": 0.5,
+          "location": [-5.325, 5.325]
+        }
+      ]
+    }
+  },
   "pads":
   {
     "D1":
