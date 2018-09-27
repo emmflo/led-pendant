@@ -1313,6 +1313,14 @@
         0
       ],
       "show": true
+    },
+    "FACE": {
+      "footprint": "face-silkscreen",
+      "layer": "top",
+      "location": [
+        0,
+        0
+      ]
     }
   },
   "stackup": {

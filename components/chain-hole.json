@@ -16,6 +16,13 @@
     {
       "shapes":
       [
+        {
+          "type": "circle",
+          "layers": ["top", "bottom"],
+          "outline": 0,
+          "diameter": 4.5,
+          "offset": [0, 0]
+        }
       ],
       "drills":
       [
