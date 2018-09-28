@@ -6,6 +6,15 @@
       "shapes":
       [
         {
+          "layers": ["top", "bottom"],
+          "type": "path",
+          "gerber-lp": "ccccccccccccccccccccc",
+          "buffer-to-pour": 0,
+          "style": "fill",
+          "location": [0, -5],
+          "value": "M -5,25 L 0,30 5,25 5,27.5 0,32.5 -5,27.5 -5,25 Z M 0,-32.5 L 5,-27.5 5,-25 0,-30 -5,-25 -5,-27.5 0,-32.5 Z"
+        },
+        {
           "layers": ["top"],
           "type": "path",
           "gerber-lp": "ccccccccccccccccccccc",

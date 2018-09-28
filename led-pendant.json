@@ -13,9 +13,9 @@
         "refdef": {
           "location": [
             0,
-            0
+            4
           ],
-          "rotate": 0,
+          "rotate": 90,
           "rotate-with-component": true,
           "show": true
         },
@@ -35,9 +35,10 @@
       "show": true,
       "silkscreen": {
         "refdef": {
+          "font-size": "1mm",
           "location": [
-            0,
-            0
+            1.5,
+            -1
           ],
           "rotate": 0,
           "rotate-with-component": true,
@@ -59,8 +60,9 @@
       "show": true,
       "silkscreen": {
         "refdef": {
+          "font-size": "1mm",
           "location": [
-            0,
+            2.5,
             0
           ],
           "rotate": 0,
@@ -83,9 +85,10 @@
       "show": true,
       "silkscreen": {
         "refdef": {
+          "font-size": "1mm",
           "location": [
-            0,
-            0
+            -1.2,
+            -1
           ],
           "rotate": 0,
           "rotate-with-component": true,
@@ -104,7 +107,15 @@
         37.5
       ],
       "rotate": 0,
-      "show": true
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        },
+        "shapes": {
+          "show": true
+        }
+      }
     },
     "D1": {
       "footprint": "RGB-reverse-smt-led-XZMDKCBDDG45S-9",
@@ -117,11 +128,12 @@
       "show": true,
       "silkscreen": {
         "refdef": {
+          "font-size": "1mm",
           "location": [
             0,
-            0
+            -2.5
           ],
-          "rotate": 0,
+          "rotate": 180,
           "rotate-with-component": true,
           "show": true
         },
@@ -141,9 +153,10 @@
       "show": true,
       "silkscreen": {
         "refdef": {
+          "font-size": "1mm",
           "location": [
             0,
-            0
+            1.5
           ],
           "rotate": 0,
           "rotate-with-component": true,
@@ -165,9 +178,10 @@
       "show": true,
       "silkscreen": {
         "refdef": {
+          "font-size": "1mm",
           "location": [
             0,
-            0
+            2.5
           ],
           "rotate": 0,
           "rotate-with-component": true,
@@ -189,9 +203,10 @@
       "show": true,
       "silkscreen": {
         "refdef": {
+          "font-size": "1mm",
           "location": [
             0,
-            0
+            -2.5
           ],
           "rotate": 0,
           "rotate-with-component": true,
@@ -213,11 +228,12 @@
       "show": true,
       "silkscreen": {
         "refdef": {
+          "font-size": "1mm",
           "location": [
-            0,
-            0
+            1.5,
+            2.5
           ],
-          "rotate": 0,
+          "rotate": 180,
           "rotate-with-component": true,
           "show": true
         },
@@ -237,9 +253,10 @@
       "show": true,
       "silkscreen": {
         "refdef": {
+          "font-size": "1mm",
           "location": [
             0,
-            0
+            -2.5
           ],
           "rotate": 0,
           "rotate-with-component": true,
@@ -261,9 +278,10 @@
       "show": true,
       "silkscreen": {
         "refdef": {
+          "font-size": "1mm",
           "location": [
             0,
-            0
+            -2.5
           ],
           "rotate": 0,
           "rotate-with-component": true,
@@ -285,9 +303,10 @@
       "show": true,
       "silkscreen": {
         "refdef": {
+          "font-size": "1mm",
           "location": [
             0,
-            0
+            -2.5
           ],
           "rotate": 0,
           "rotate-with-component": false,
@@ -309,9 +328,10 @@
       "show": true,
       "silkscreen": {
         "refdef": {
+          "font-size": "1mm",
           "location": [
             0,
-            0
+            2.5
           ],
           "rotate": 0,
           "rotate-with-component": false,
@@ -334,8 +354,8 @@
       "silkscreen": {
         "refdef": {
           "location": [
-            0,
-            0
+            -3,
+            2
           ],
           "rotate": 0,
           "rotate-with-component": true,
@@ -359,10 +379,10 @@
         "refdef": {
           "location": [
             0,
-            0
+            2.8
           ],
           "rotate": 0,
-          "rotate-with-component": true,
+          "rotate-with-component": false,
           "show": true
         },
         "shapes": {
@@ -377,7 +397,15 @@
         0,
         0
       ],
-      "show": true
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        },
+        "shapes": {
+          "show": true
+        }
+      }
     },
     "R1": {
       "footprint": "0402",
@@ -390,8 +418,9 @@
       "show": true,
       "silkscreen": {
         "refdef": {
+          "font-size": "1mm",
           "location": [
-            0,
+            2,
             0
           ],
           "rotate": 0,
@@ -414,8 +443,9 @@
       "show": true,
       "silkscreen": {
         "refdef": {
+          "font-size": "1mm",
           "location": [
-            0,
+            2.2,
             0
           ],
           "rotate": 0,
@@ -438,8 +468,9 @@
       "show": true,
       "silkscreen": {
         "refdef": {
+          "font-size": "1mm",
           "location": [
-            0,
+            2.2,
             0
           ],
           "rotate": 0,
@@ -462,8 +493,9 @@
       "show": true,
       "silkscreen": {
         "refdef": {
+          "font-size": "1mm",
           "location": [
-            0,
+            2.2,
             0
           ],
           "rotate": 0,
@@ -486,8 +518,9 @@
       "show": true,
       "silkscreen": {
         "refdef": {
+          "font-size": "1mm",
           "location": [
-            0,
+            2.2,
             0
           ],
           "rotate": 0,
@@ -510,8 +543,9 @@
       "show": true,
       "silkscreen": {
         "refdef": {
+          "font-size": "1mm",
           "location": [
-            0,
+            2.2,
             0
           ],
           "rotate": 0,
@@ -534,9 +568,10 @@
       "show": true,
       "silkscreen": {
         "refdef": {
+          "font-size": "1mm",
           "location": [
-            0,
-            0
+            1,
+            1
           ],
           "rotate": 0,
           "rotate-with-component": true,
@@ -558,8 +593,9 @@
       "show": true,
       "silkscreen": {
         "refdef": {
+          "font-size": "1mm",
           "location": [
-            0,
+            2.2,
             0
           ],
           "rotate": 0,
@@ -582,8 +618,9 @@
       "show": true,
       "silkscreen": {
         "refdef": {
+          "font-size": "1mm",
           "location": [
-            0,
+            2.2,
             0
           ],
           "rotate": 0,
@@ -606,8 +643,9 @@
       "show": true,
       "silkscreen": {
         "refdef": {
+          "font-size": "1mm",
           "location": [
-            0,
+            2.2,
             0
           ],
           "rotate": 0,
@@ -630,8 +668,9 @@
       "show": true,
       "silkscreen": {
         "refdef": {
+          "font-size": "1mm",
           "location": [
-            0,
+            -2.2,
             0
           ],
           "rotate": 0,
@@ -654,8 +693,9 @@
       "show": true,
       "silkscreen": {
         "refdef": {
+          "font-size": "1mm",
           "location": [
-            0,
+            2,
             0
           ],
           "rotate": 0,
@@ -678,8 +718,9 @@
       "show": true,
       "silkscreen": {
         "refdef": {
+          "font-size": "1mm",
           "location": [
-            0,
+            -2.2,
             0
           ],
           "rotate": 0,
@@ -702,8 +743,9 @@
       "show": true,
       "silkscreen": {
         "refdef": {
+          "font-size": "1mm",
           "location": [
-            0,
+            -2.2,
             0
           ],
           "rotate": 0,
@@ -726,8 +768,9 @@
       "show": true,
       "silkscreen": {
         "refdef": {
+          "font-size": "1mm",
           "location": [
-            0,
+            2.2,
             0
           ],
           "rotate": 0,
@@ -750,8 +793,9 @@
       "show": true,
       "silkscreen": {
         "refdef": {
+          "font-size": "1mm",
           "location": [
-            0,
+            2.2,
             0
           ],
           "rotate": 0,
@@ -774,8 +818,9 @@
       "show": true,
       "silkscreen": {
         "refdef": {
+          "font-size": "1mm",
           "location": [
-            0,
+            2.2,
             0
           ],
           "rotate": 0,
@@ -798,8 +843,9 @@
       "show": true,
       "silkscreen": {
         "refdef": {
+          "font-size": "1mm",
           "location": [
-            0,
+            2.2,
             0
           ],
           "rotate": 0,
@@ -822,8 +868,9 @@
       "show": true,
       "silkscreen": {
         "refdef": {
+          "font-size": "1mm",
           "location": [
-            0,
+            2.2,
             0
           ],
           "rotate": 0,
@@ -846,8 +893,9 @@
       "show": true,
       "silkscreen": {
         "refdef": {
+          "font-size": "1mm",
           "location": [
-            0,
+            2.2,
             0
           ],
           "rotate": 0,
@@ -870,9 +918,10 @@
       "show": true,
       "silkscreen": {
         "refdef": {
+          "font-size": "1mm",
           "location": [
-            0,
-            0
+            1,
+            -1
           ],
           "rotate": 0,
           "rotate-with-component": true,
@@ -894,8 +943,9 @@
       "show": true,
       "silkscreen": {
         "refdef": {
+          "font-size": "1mm",
           "location": [
-            0,
+            2.2,
             0
           ],
           "rotate": 0,
@@ -918,8 +968,9 @@
       "show": true,
       "silkscreen": {
         "refdef": {
+          "font-size": "1mm",
           "location": [
-            0,
+            -2,
             0
           ],
           "rotate": 0,
@@ -942,8 +993,9 @@
       "show": true,
       "silkscreen": {
         "refdef": {
+          "font-size": "1mm",
           "location": [
-            0,
+            2,
             0
           ],
           "rotate": 0,
@@ -966,8 +1018,9 @@
       "show": true,
       "silkscreen": {
         "refdef": {
+          "font-size": "1mm",
           "location": [
-            0,
+            2,
             0
           ],
           "rotate": 0,
@@ -990,8 +1043,9 @@
       "show": true,
       "silkscreen": {
         "refdef": {
+          "font-size": "1mm",
           "location": [
-            0,
+            2,
             0
           ],
           "rotate": 0,
@@ -1014,8 +1068,9 @@
       "show": true,
       "silkscreen": {
         "refdef": {
+          "font-size": "1mm",
           "location": [
-            0,
+            2,
             0
           ],
           "rotate": 0,
@@ -1038,8 +1093,9 @@
       "show": true,
       "silkscreen": {
         "refdef": {
+          "font-size": "1mm",
           "location": [
-            0,
+            2,
             0
           ],
           "rotate": 0,
@@ -1062,8 +1118,9 @@
       "show": true,
       "silkscreen": {
         "refdef": {
+          "font-size": "1mm",
           "location": [
-            0,
+            -2,
             0
           ],
           "rotate": 0,
@@ -1082,7 +1139,15 @@
         0,
         -5
       ],
-      "rotate": 0
+      "rotate": 0,
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        },
+        "shapes": {
+          "show": true
+        }
+      }
     },
     "U1": {
       "footprint": "QSOP24",
@@ -1097,9 +1162,9 @@
         "refdef": {
           "location": [
             0,
-            0
+            -5.5
           ],
-          "rotate": 0,
+          "rotate": 180,
           "rotate-with-component": true,
           "show": true
         },
@@ -1224,7 +1289,7 @@
   },
   "layer-control": {
     "assembly": {
-      "hide": false,
+      "hide": true,
       "lock": false,
       "place": true
     },
@@ -1305,6 +1370,14 @@
     }
   },
   "shapes": {
+    "FACE": {
+      "footprint": "face",
+      "layer": "top",
+      "location": [
+        0,
+        0
+      ]
+    },
     "GAPS": {
       "footprint": "face-gaps",
       "layer": "top",
@@ -1313,14 +1386,6 @@
         0
       ],
       "show": true
-    },
-    "FACE": {
-      "footprint": "face-silkscreen",
-      "layer": "top",
-      "location": [
-        0,
-        0
-      ]
     }
   },
   "stackup": {
